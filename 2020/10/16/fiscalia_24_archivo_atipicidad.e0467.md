@@ -4,6 +4,7 @@ expediente: "MPF00497727"
 original_filename: "MPF00497727_Art._41_LPC_a)__Archivo_-_Atipicidad_1603206351.pdf"
 fecha_creacion_pdf: "2020-10-20T12:05:52-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/den-712901.e0467.eml"
+firma_digital: "RODRIGO MANUEL PAGANO MATA Oct 20 2020 12:05:53; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
