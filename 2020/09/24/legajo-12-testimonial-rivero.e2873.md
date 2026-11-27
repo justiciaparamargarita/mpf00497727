@@ -23,7 +23,7 @@ DNI: [dni09]
 
 Fecha nacimiento: [nacimiento09]
 
-Estado civil: Casado
+Estado civil: [estado-civil]
 
 Domicilio: [direccion09] Piso: -
 

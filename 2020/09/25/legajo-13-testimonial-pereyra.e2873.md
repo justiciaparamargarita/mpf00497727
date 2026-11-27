@@ -23,7 +23,7 @@ DNI: [dni28]
 
 Fecha nacimiento: [nacimiento28]
 
-Estado civil: Casado
+Estado civil: [estado-civil]
 
 Domicilio: [direccion28], DAN, Buenos
 
