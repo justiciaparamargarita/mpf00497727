@@ -32,7 +32,7 @@ Para:Lucrecia Giana <LGiana@fiscalias.gob.ar>;
 
 Sr. Fiscal
 VADIM MISCHANCHUK, Abogado de la Asociacón de Médicos Municipales de CABA, en mi carácter de Denunciante en esta causa, con
-domicilio en Av Corrientes 1515 7 D de CABA con correo electrónico <persona29@gmail.com> telefono celular [telefono29] ante Ud
+domicilio en [domicilio-procesal29] de CABA con correo electrónico <persona29@gmail.com> telefono celular [telefono29] ante Ud
 me presento y digo:
 Habiendo tomado conocimiento del archivo de las actuaciones, luego de haber leido las argumentaciones de la resolución y de haber
 conversado con una de las víctimas del accionar de Kosciuk, vengo formalmente a recurrir el archivo de las actuaciones solicitando se
